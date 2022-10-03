@@ -88,5 +88,9 @@ footer ul {
     padding-inline-start: 0px;
 }
 
+h2 {
 
+    text-align: center;
+    color: var(--secondary-color);
+}
 

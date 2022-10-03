@@ -47,3 +47,4 @@ function compare( sum , luckyNumber)
 
 }
 
+
